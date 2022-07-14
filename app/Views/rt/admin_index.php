@@ -8,7 +8,7 @@
             <th>Nama</th>
             <th>Kelamin</th>
             <th>Alamat</th>
-            <th>Nomor</th>
+            <th>No. Rumah</th>
             <th>Aksi</th>
         </tr>
     </thead>

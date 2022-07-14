@@ -10,9 +10,9 @@ class UserSeeder extends Seeder
 	{
 		$model = model('UserModel');
 		$model->insert([
-			'username' => 'dimasreza',
-			'useremail' => 'dimasrezanugraha@gmail.com',
-			'userpassword' => password_hash('admin', PASSWORD_DEFAULT),
-		]);
+            'username' => 'ziddan',
+			'useremail' => 'ziddan@gmail.com',
+			'userpassword' => password_hash('ziddan123', PASSWORD_DEFAULT),
+        ]);
 	}
 }
